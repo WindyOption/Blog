@@ -1,4 +1,4 @@
-Use Blog template whose name is [Fresh](https://github.com/artemsheludko/fresh)
+Use Blog template [Fresh](https://github.com/artemsheludko/fresh) /  [More template](http://jekyllthemes.org/) 
 =============================
 
 ![](assets/img/fresh.jpg)
