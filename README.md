@@ -2,3 +2,4 @@ Use Blog template [Fresh](https://github.com/artemsheludko/fresh) /  [More templ
 =============================
 
 Test Push
+ 
